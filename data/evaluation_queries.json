@@ -1,0 +1,127 @@
+[
+  {
+    "id": "Q01", "lang": "en", "category": "economy",
+    "query": "RBI repo rate monetary policy inflation",
+    "relevant_docs": ["en_001", "en_002", "en_003", "hi_001", "hi_002"]
+  },
+  {
+    "id": "Q02", "lang": "en", "category": "economy",
+    "query": "Union Budget tax relief middle class fiscal deficit",
+    "relevant_docs": ["en_005", "hi_003"]
+  },
+  {
+    "id": "Q03", "lang": "en", "category": "economy",
+    "query": "GST collections record revenue India",
+    "relevant_docs": ["en_004", "en_005"]
+  },
+  {
+    "id": "Q04", "lang": "en", "category": "economy",
+    "query": "India foreign exchange reserves dollar milestone",
+    "relevant_docs": ["en_006", "en_008"]
+  },
+  {
+    "id": "Q05", "lang": "en", "category": "economy",
+    "query": "startup ecosystem unicorn funding India",
+    "relevant_docs": ["en_007", "en_050"]
+  },
+  {
+    "id": "Q06", "lang": "en", "category": "sports",
+    "query": "India cricket Champions Trophy final Pakistan",
+    "relevant_docs": ["en_011", "hi_004"]
+  },
+  {
+    "id": "Q07", "lang": "en", "category": "sports",
+    "query": "IPL 2025 season viewership JioCinema",
+    "relevant_docs": ["en_012", "hi_005"]
+  },
+  {
+    "id": "Q08", "lang": "en", "category": "sports",
+    "query": "Neeraj Chopra javelin Diamond League gold",
+    "relevant_docs": ["en_014", "hi_006"]
+  },
+  {
+    "id": "Q09", "lang": "en", "category": "technology",
+    "query": "ISRO Chandrayaan moon mission launch",
+    "relevant_docs": ["en_020"]
+  },
+  {
+    "id": "Q10", "lang": "en", "category": "technology",
+    "query": "Digital India UPI transactions financial inclusion",
+    "relevant_docs": ["en_021", "en_007"]
+  },
+  {
+    "id": "Q11", "lang": "en", "category": "health",
+    "query": "AIIMS robotic surgery liver transplant hospital",
+    "relevant_docs": ["en_034", "hi_007"]
+  },
+  {
+    "id": "Q12", "lang": "en", "category": "health",
+    "query": "tuberculosis TB elimination India WHO target",
+    "relevant_docs": ["en_035", "hi_008"]
+  },
+  {
+    "id": "Q13", "lang": "en", "category": "environment",
+    "query": "Delhi air pollution AQI winter smog",
+    "relevant_docs": ["en_038", "en_043"]
+  },
+  {
+    "id": "Q14", "lang": "en", "category": "education",
+    "query": "National Education Policy NEP university implementation",
+    "relevant_docs": ["en_046", "hi_013"]
+  },
+  {
+    "id": "Q15", "lang": "en", "category": "politics",
+    "query": "Delhi assembly elections AAP BJP seats",
+    "relevant_docs": ["en_026", "hi_010"]
+  },
+  {
+    "id": "Q16", "lang": "hi", "category": "economy",
+    "query": "भारतीय रिजर्व बैंक ब्याज दर मुद्रास्फीति",
+    "relevant_docs": ["en_001", "en_002", "en_003", "hi_001", "hi_002"]
+  },
+  {
+    "id": "Q17", "lang": "hi", "category": "economy",
+    "query": "केंद्रीय बजट आयकर राहत मध्यम वर्ग",
+    "relevant_docs": ["en_005", "hi_003"]
+  },
+  {
+    "id": "Q18", "lang": "hi", "category": "sports",
+    "query": "भारत क्रिकेट चैंपियंस ट्रॉफी पाकिस्तान जीत",
+    "relevant_docs": ["en_011", "hi_004"]
+  },
+  {
+    "id": "Q19", "lang": "hi", "category": "sports",
+    "query": "आईपीएल 2025 दर्शक जियोसिनेमा क्रिकेट",
+    "relevant_docs": ["en_012", "hi_005"]
+  },
+  {
+    "id": "Q20", "lang": "hi", "category": "sports",
+    "query": "नीरज चोपड़ा भाला फेंक डायमंड लीग",
+    "relevant_docs": ["en_014", "hi_006"]
+  },
+  {
+    "id": "Q21", "lang": "hi", "category": "health",
+    "query": "एम्स रोबोटिक सर्जरी लिवर प्रत्यारोपण",
+    "relevant_docs": ["en_034", "hi_007"]
+  },
+  {
+    "id": "Q22", "lang": "hi", "category": "health",
+    "query": "क्षय रोग टीबी उन्मूलन भारत",
+    "relevant_docs": ["en_035", "hi_008"]
+  },
+  {
+    "id": "Q23", "lang": "hi", "category": "politics",
+    "query": "दिल्ली विधानसभा चुनाव आम आदमी पार्टी",
+    "relevant_docs": ["en_026", "hi_010"]
+  },
+  {
+    "id": "Q24", "lang": "hi", "category": "education",
+    "query": "राष्ट्रीय शिक्षा नीति विश्वविद्यालय कार्यान्वयन",
+    "relevant_docs": ["en_046", "hi_013"]
+  },
+  {
+    "id": "Q25", "lang": "hi", "category": "technology",
+    "query": "डिजिटल इंडिया यूपीआई भुगतान वित्तीय समावेश",
+    "relevant_docs": ["en_021", "en_007"]
+  }
+]
